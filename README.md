@@ -71,3 +71,5 @@ Want to include your favorate Scala extention? Create an [issue](https://github.
 [Remote Server Protocol UI](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-rsp-ui): Provides a unified UI to interact with runtimes and servers managed over the RSP protocol.
 
 [Splunk](https://marketplace.visualstudio.com/items?itemName=Splunk.splunk): Splunk Python Debugging (local, remote), Linting, IntelliSense, Snippets, Templates.
+
+[HashiCopr Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform): Syntax highlighting and autocompletion for Terraform.

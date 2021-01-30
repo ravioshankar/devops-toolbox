@@ -58,7 +58,8 @@
       "ms-vscode-remote.remote-wsl-recommender",
       "ms-azuretools.vscode-azurevirtualmachines",
       "Splunk.splunk",
-      "redhat.vscode-rsp-ui"
+      "redhat.vscode-rsp-ui",
+      "HashiCorp.terraform"
     ]
   }
   
