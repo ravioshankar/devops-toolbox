@@ -6,60 +6,68 @@
     "publisher": "ravioshankar",
     "icon": "assets/devops-cloud-extention-pack.png",
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/ravioshankar/devops-toolbox.git"
+        "type": "git",
+        "url": "git+https://github.com/ravioshankar/devops-toolbox.git"
     },
     "keywords": [
-      "DevOps", "Cloud", "AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "WSL"
+        "DevOps",
+        "Cloud",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "Docker",
+        "Kubernetes",
+        "WSL"
     ],
     "author": "ravioshankar",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/ravioshankar/devops-toolbox/issues"
+        "url": "https://github.com/ravioshankar/devops-toolbox/issues"
     },
     "homepage": "https://github.com/ravioshankar/devops-toolbox/tree/master/vs-code-extention/#readme",
     "engines": {
-      "vscode": "^1.52.1"
+        "vscode": "^1.52.1"
     },
     "categories": [
-      "Extension Packs"
+        "Extension Packs"
     ],
     "extensionPack": [
-      
-      "formulahendry.code-runner",
-      "eamodio.gitlens",
-      "visualstudioexptteam.vscodeintellicode",
-      "ms-azuretools.vscode-docker",
-      "ms-kubernetes-tools.vscode-kubernetes-tools",
-      "redhat.vscode-yaml",
-      "mindaro.mindaro",
-      "github.codespaces",
-      "ms-kubernetes-tools.kind-vscode",
-      "GitLab.gitlab-workflow",
-      "GitHub.vscode-pull-request-github",
-      "AmazonWebServices.aws-toolkit-vscode",
-      "ms-azuretools.vscode-azureterraform",
-      "IBM.ibmcloud-account",
-      "SAPSE.vscode-cds",
-      "GoogleCloudTools.cloudcode",
-      "Pivotal.vscode-manifest-yaml",
-      "PaloAltoNetworksInc.prisma-cloud",
-      "IBM.ibm-developer",
-      "ms-vsonline.vsonline",
-      "ms-vscode.azurecli",
-      "ms-azure-devops.azure-pipelines",
-      "ms-vscode.azure-account",
-      "azuredevspaces.azds",
-      "ms-vscode-remote.remote-wsl",
-      "ms-vscode-remote.remote-containers",
-      "ms-vscode-remote.remote-ssh",
-      "ms-vscode-remote.remote-ssh-edit",
-      "ms-vscode-remote.vscode-remote-extensionpack",
-      "ms-vscode-remote.remote-wsl-recommender",
-      "ms-azuretools.vscode-azurevirtualmachines",
-      "Splunk.splunk",
-      "redhat.vscode-rsp-ui",
-      "HashiCorp.terraform"
-    ]
-  }
-  
+        "formulahendry.code-runner",
+        "eamodio.gitlens",
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "redhat.vscode-yaml",
+        "mindaro.mindaro",
+        "github.codespaces",
+        "ms-kubernetes-tools.kind-vscode",
+        "GitLab.gitlab-workflow",
+        "GitHub.vscode-pull-request-github",
+        "AmazonWebServices.aws-toolkit-vscode",
+        "ms-azuretools.vscode-azureterraform",
+        "IBM.ibmcloud-account",
+        "SAPSE.vscode-cds",
+        "GoogleCloudTools.cloudcode",
+        "Pivotal.vscode-manifest-yaml",
+        "PaloAltoNetworksInc.prisma-cloud",
+        "IBM.ibm-developer",
+        "ms-vsonline.vsonline",
+        "ms-vscode.azurecli",
+        "ms-azure-devops.azure-pipelines",
+        "ms-vscode.azure-account",
+        "azuredevspaces.azds",
+        "ms-vscode-remote.remote-wsl",
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vscode-remote.remote-wsl-recommender",
+        "ms-azuretools.vscode-azurevirtualmachines",
+        "Splunk.splunk",
+        "redhat.vscode-rsp-ui",
+        "HashiCorp.terraform"
+    ],
+    "dependencies": {
+        "vsce": "^1.84.0"
+    }
+}
