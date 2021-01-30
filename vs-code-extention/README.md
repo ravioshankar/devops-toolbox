@@ -1,6 +1,6 @@
-# DevOps-toolbox
-
+# DevOps Cloud Extension pack
 VS codes most popular extension under one unbrella to help DevOps engineers.
+
 
 Want to include your favorate Scala extention? Create an [issue](https://github.com/ravioshankar/devops-toolbox/issues)
 
